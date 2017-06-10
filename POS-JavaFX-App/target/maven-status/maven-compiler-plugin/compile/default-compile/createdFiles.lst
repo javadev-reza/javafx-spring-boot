@@ -1,0 +1,5 @@
+config\JFXController.class
+config\AppLauncher.class
+com\pos\app\controller\LoginController.class
+com\pos\app\controller\POSController.class
+config\SpringFXConfig.class
